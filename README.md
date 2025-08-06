@@ -50,7 +50,7 @@ A success message is displayed to assure the user that the system is intact.
 
 Usage
 Clone the repository:
-
+```
 bash
 Copy
 Edit
@@ -67,5 +67,6 @@ Run the script manually or add it to your login sequence:
 bash
 Copy
 Edit
+```
 ./check_integrity.sh
 Optionally, configure as a service for automatic checks on startup.
